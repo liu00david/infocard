@@ -10,6 +10,9 @@ function App() {
         <p>
           I will make projects here. AGAIN!
         </p>
+        <p>
+          I will make projects here. AGAIN!
+        </p>
       </header>
     </div>
   );
