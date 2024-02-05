@@ -1,14 +1,17 @@
+import React from 'react';
 import './App.css';
+import { BrowserRouter as Router, Route, Routes, Navigate } from 'react-router-dom';
+import Home from './pages'
 
 function App() {
   return (
-    <div className="App">
-      <div className="body">
-        <p>
-          Hello World!
-        </p>
-      </div>
-    </div>
+    <Router>
+      <Routes>
+        <Route exact path="/" element={ <Navigate to="/home" /> }/>
+        <Route exact path="/home" element={<Home />} />
+        <Route path="*" element={ <Navigate to="/home" /> }/>
+      </Routes>
+    </Router>
   );
 }
 
