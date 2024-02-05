@@ -1,10 +1,14 @@
 import React from "react";
+import { InfocardContainer } from './InfocardElements'
 
-const Infocard = () => {
+const Landing = () => {
   return (
-    <> Hello 1 </>
-  )
-}
+    <InfocardContainer>
+      <div>
+        <p>infocard here</p>
+      </div>
+    </InfocardContainer>
+  );
+};
 
-export default Infocard
-
+export default Landing

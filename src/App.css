@@ -1,105 +1,11 @@
-/* Reset some default styles */
-body, h1, p, ul {
-  margin: 0;
-  padding: 0;
+/* src/styles/fonts.css */
+@font-face {
+  font-family: 'Ubuntu Mono';
+  src: url('./fonts/Ubuntu_Mono/UbuntuMono-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
 }
 
-/* Set a background color and font styles for the entire page */
 body {
-  font-family: 'Arial', sans-serif;
-  background-color: #f4f4f4;
-  color: #333;
-  line-height: 1.6;
-  margin: 15px;
+  font-family: 'Ubuntu Mono', monospace;
 }
-
-/* Create a container to center content */
-.container {
-  max-width: 800px;
-  margin: 0 auto;
-  padding: 20px;
-}
-
-/* Style headings and paragraphs */
-h1, h2, h3 {
-  color: #333;
-  margin-bottom: 10px;
-}
-
-p {
-  margin-bottom: 20px;
-}
-
-/* Style links */
-a {
-  color: #007bff;
-  text-decoration: none;
-}
-
-a:hover {
-  text-decoration: underline;
-}
-
-/* Style navigation */
-nav {
-  background-color: #333;
-  color: #fff;
-  padding: 10px;
-  text-align: center;
-}
-
-nav a {
-  color: #fff;
-  margin: 0 10px;
-  text-decoration: none;
-}
-
-/* Style a simple footer */
-footer {
-  background-color: #333;
-  color: #fff;
-  text-align: center;
-  padding: 10px;
-  position: fixed;
-  bottom: 0;
-  width: 100%;
-}
-
-/* .App {
-  text-align: center;
-}
-
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
-}
-
-.App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
-} */
