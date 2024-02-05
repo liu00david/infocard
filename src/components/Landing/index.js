@@ -1,12 +1,11 @@
 import React from "react";
-import { LandingContainer } from './LandingElements'
+import { LandingContainer, TypingComponent } from './LandingElements'
 
 const Landing = () => {
   return (
     <LandingContainer>
-      <div>
-        <h1>Welcome to My Website</h1>
-        <p>Explore and discover amazing things!</p>
+      <div> <h1>
+          <TypingComponent> Hello world! </TypingComponent></h1>
       </div>
     </LandingContainer>
   );
