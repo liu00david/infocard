@@ -23,20 +23,19 @@ const typingAnimation = keyframes`
 `;
 
 const blinkAnimation = keyframes`
-  0%, 100% { opacity: 1; }
-  50% { opacity: 0; }
+  0%, 100% { opacity: 0; }
+  50% { opacity: 1; }
 `;
 
 const TypingContainer = styled.div`
   overflow: hidden;
   white-space: nowrap;
-  margin: 0 0;
+  margin: auto;
   display: inline-block;
-  animation: ${typingAnimation} 2s steps(11, end);
+  animation: ${typingAnimation} 1s steps(40, end);
 `;
 
 const BlinkingUnderscore = styled.span`
-  /* border-right: 0.15em solid orange; /* Adjust the color and size as needed */
   margin-left: 0px; /* Adjust spacing between the typed text and underscore */
   animation: ${blinkAnimation} 1s infinite 3s; /* Add a 3s delay before starting blinking */
 `;
@@ -46,18 +45,22 @@ export const TypingComponent = ({ children }) => {
 
   useEffect(() => {
     const words = children || ''; // Use the provided text or an empty string
-    let currentIndex = 0;
+    let currentIndex = -5;
 
     const typingInterval = setInterval(() => {
-      setText(words.substring(0, currentIndex));
+      setText(words.substring(1, currentIndex));
       currentIndex++;
 
       if (currentIndex > words.length) {
         clearInterval(typingInterval);
       }
-    }, 0); // Adjust typing speed as needed
+    }, 200); // Adjust typing speed as needed
 
-    return () => clearInterval(typingInterval);
+    const timeoutId = setTimeout(() => {
+      setText('');
+    }, 5000);
+
+    return () => clearTimeout(timeoutId);
   }, [children]);
 
   return (
