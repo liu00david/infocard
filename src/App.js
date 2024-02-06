@@ -7,9 +7,7 @@ function App() {
   return (
     <Router>
       <Routes>
-        <Route exact path="/" element={ <Navigate to="/fun" /> }/>
         <Route exact path="/fun" element={<Home />} />
-        <Route path="*" element={ <Navigate to="/fun" /> }/>
       </Routes>
     </Router>
   );
