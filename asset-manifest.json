@@ -1,14 +1,14 @@
 {
-  "main.css": "/fun/static/css/main.93d703fb.chunk.css",
-  "main.js": "/fun/static/js/main.38f03750.chunk.js",
-  "main.js.map": "/fun/static/js/main.38f03750.chunk.js.map",
-  "runtime~main.js": "/fun/static/js/runtime~main.ee35a079.js",
-  "runtime~main.js.map": "/fun/static/js/runtime~main.ee35a079.js.map",
-  "static/js/2.c165c80e.chunk.js": "/fun/static/js/2.c165c80e.chunk.js",
-  "static/js/2.c165c80e.chunk.js.map": "/fun/static/js/2.c165c80e.chunk.js.map",
-  "index.html": "/fun/index.html",
-  "precache-manifest.0d463c5683e14ba828306aefe5798dd4.js": "/fun/precache-manifest.0d463c5683e14ba828306aefe5798dd4.js",
-  "service-worker.js": "/fun/service-worker.js",
-  "static/css/main.93d703fb.chunk.css.map": "/fun/static/css/main.93d703fb.chunk.css.map",
-  "static/media/App.css": "/fun/static/media/UbuntuMono-Regular.c8ca9c5c.ttf"
+  "files": {
+    "main.css": "/fun/static/css/main.4e55ee02.css",
+    "main.js": "/fun/static/js/main.7d5ab65f.js",
+    "static/media/UbuntuMono-Regular.ttf": "/fun/static/media/UbuntuMono-Regular.9fa7d55c51063608f793.ttf",
+    "index.html": "/fun/index.html",
+    "main.4e55ee02.css.map": "/fun/static/css/main.4e55ee02.css.map",
+    "main.7d5ab65f.js.map": "/fun/static/js/main.7d5ab65f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4e55ee02.css",
+    "static/js/main.7d5ab65f.js"
+  ]
 }
