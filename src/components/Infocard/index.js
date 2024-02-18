@@ -67,7 +67,7 @@ const Landing = () => {
                 how singapore became the world's hub
               </a>
               <a href="https://www.youtube.com/watch?v=4V9pPGrpN1E" target="_blank" rel="noreferrer" class="darklinkcontainer">
-                $2.40 butter chicken for anyone
+                make easy butter chicken for $2.40
               </a>
               <a href="https://www.youtube.com/watch?v=dsHyUgGMht0" target="_blank" rel="noreferrer" class="darklinkcontainer">
                 how github's database self-destructed in 43 seconds
