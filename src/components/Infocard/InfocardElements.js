@@ -13,4 +13,13 @@ export const InfocardContainer = styled.div`
   justify-content: center;
   color: #fff;
   text-align: center;
+  position: relative;
+
+  @media (max-height: 800px) {
+    height: auto; /* Adjust the height based on content if viewport height is less than 800px */
+  }
+
+  @media (max-width: 850px) {
+    height: auto; /* Adjust the height based on content if viewport width is less than 850px */
+  }
 `;

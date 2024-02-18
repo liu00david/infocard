@@ -26,30 +26,61 @@ const Landing = () => {
             <span class="green-text"> CI/CD</span> pipelines
             integrating both our internal and external dependencies.
             <div class="mini-space"></div>
-            Importantly, as our apps adapted to the cloud environment, I've also introduced
+            As our apps adapted to the cloud environment, I've also introduced
             containerization and orchestration using <span class="green-text"> Docker </span>and<span class="green-text"> Kubernetes</span>.
-            Through this work I've also developed a strong understanding of the security and compliance,
+            Through this work I've also developed a strong understanding of corporate security and compliance,
             and how to use <span class="green-text">IaC</span> (infrastructure as code) to enforce these policies.
             <div class="mini-space"></div>
-            As I continue this journey, I additionally look forward to diving deeper into
+            As I continue this journey, I look forward to diving deeper into
             applications of AI and ML and how we can leverage its potential to further enhance our technological landscape.
 
-            <div className="heading">links</div>
+            <div className="heading">some links</div>
             <div className="paragraph">
-              <a href="https://github.com/liu00david/fun" class="linkcontainer">
+              <a href="https://github.com/liu00david/fun" target="_blank" rel="noreferrer" class="linkcontainer">
                 Github
               </a>
-              <a href="https://liu00david.github.io/home/" class="linkcontainer">
-                Main site
+              <a href="https://liu00david.github.io/home/" target="_blank" rel="noreferrer" class="linkcontainer">
+                Main website
               </a>
-              <a href="https://drive.google.com/drive/folders/1Su2RrV7zt-fZYIWyg7A7FQkvEoXyHUFQ?usp=drive_link" class="linkcontainer">
-                Spreadsheets I can't live without
+              <a href="https://www.linkedin.com/in/liu00david/" target="_blank" rel="noreferrer" class="linkcontainer">
+                LinkedIn
               </a>
-              <a href="https://www.linkedin.com/in/liu00david/" class="linkcontainer">
-                Linkedin
+              <a href="https://www.instagram.com/wheres_dvd/" target="_blank" rel="noreferrer" class="linkcontainer">
+                Instagram @wheres_dvd
+              </a>
+              <a href="https://drive.google.com/drive/folders/1Su2RrV7zt-fZYIWyg7A7FQkvEoXyHUFQ?usp=drive_link" target="_blank" rel="noreferrer" class="linkcontainer">
+                Life spreadsheets
+              </a>
+              <a href="mailto:liudavid@uchicago.edu" target="_blank" rel="noreferrer" class="linkcontainer">
+                Email me
               </a>
             </div>
 
+            <div className="heading">videos I liked</div>
+            <div className="paragraph">
+              <a href="https://www.youtube.com/watch?v=1S3Ca9v6pyo" target="_blank" rel="noreferrer" class="darklinkcontainer">
+                one boat caused a $400 million an hour traffic jam
+              </a>
+              <a href="https://www.youtube.com/watch?v=wdfF-doIVjo" target="_blank" rel="noreferrer" class="darklinkcontainer">
+                how singapore became the world's hub
+              </a>
+              <a href="https://www.youtube.com/watch?v=4V9pPGrpN1E" target="_blank" rel="noreferrer" class="darklinkcontainer">
+                $2.40 butter chicken for anyone
+              </a>
+              <a href="https://www.youtube.com/watch?v=dsHyUgGMht0" target="_blank" rel="noreferrer" class="darklinkcontainer">
+                how github's database self-destructed in 43 seconds
+              </a>
+              <a href="https://www.youtube.com/watch?v=7ZRqeRRik8c" target="_blank" rel="noreferrer" class="darklinkcontainer">
+                first descent of k2 on skis
+              </a>
+              <a href="https://www.youtube.com/watch?v=VbeM8Lf7s5A" target="_blank" rel="noreferrer" class="darklinkcontainer">
+                the genius design of apple park
+              </a>
+              <a href="https://www.youtube.com/watch?v=J-M98KLgaUU" target="_blank" rel="noreferrer" class="darklinkcontainer">
+                what went wrong with drone delivery
+              </a>
+            </div>
+            <div class="mega-space"></div>
           </div>
         </div>
       </div>
