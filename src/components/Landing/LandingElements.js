@@ -4,9 +4,9 @@ export const LandingContainer = styled.div`
   height: 100vh;
   background: linear-gradient(
     to bottom,
-    #350A3F 0%,
-    #210939 50%,
-    #121452 100%
+    #280630 0%,
+    #1A062D 50%,
+    #080A3A 100%
   );
   display: flex;
   align-items: center;

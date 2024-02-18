@@ -4,9 +4,9 @@ export const InfocardContainer = styled.div`
   height: 100vh;
   background: linear-gradient(
     to bottom,
-    #121452 0%,
-    #210939 50%,
-    #350A3F 100%
+    #080A3A 0%,
+    #1D0732 50%,
+    #280630 100%
   );
   display: flex;
   align-items: center;

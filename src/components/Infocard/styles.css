@@ -2,7 +2,7 @@
     width: 850px; /* Width is 75% of the viewport width or 1000px, whichever is smaller */
     height: 800px; /* Maximum height is 80% of the viewport height or 700px, whichever is smaller */
     /* overflow-y: auto; */
-    background-color: rgba(255, 255, 255, 0.12); /* Color is 12% opacity of #FFFFFF */
+    background-color: rgba(255, 255, 255, 0.10); /* Color is 12% opacity of #FFFFFF */
 }
 
 @media (max-width: 850px) {
@@ -102,5 +102,5 @@
   }
 
 .darklinkcontainer:hover {
-    background-color: rgba(36, 8, 101, 0.73); /* Change background color on hover */
+    background-color: rgba(37, 6, 110, 0.73); /* Change background color on hover */
 }
