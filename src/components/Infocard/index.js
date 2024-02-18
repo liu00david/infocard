@@ -36,6 +36,7 @@ const Landing = () => {
 
             <div className="heading">some links</div>
             <div className="paragraph">
+              <div class="mini-space"></div>
               <a href="https://github.com/liu00david/fun" target="_blank" rel="noreferrer" class="linkcontainer">
                 Github
               </a>
@@ -58,6 +59,7 @@ const Landing = () => {
 
             <div className="heading">videos I liked</div>
             <div className="paragraph">
+              <div class="mini-space"></div>
               <a href="https://www.youtube.com/watch?v=1S3Ca9v6pyo" target="_blank" rel="noreferrer" class="darklinkcontainer">
                 one boat caused a $400 million an hour traffic jam
               </a>
@@ -73,8 +75,8 @@ const Landing = () => {
               <a href="https://www.youtube.com/watch?v=7ZRqeRRik8c" target="_blank" rel="noreferrer" class="darklinkcontainer">
                 first descent of k2 on skis
               </a>
-              <a href="https://www.youtube.com/watch?v=VbeM8Lf7s5A" target="_blank" rel="noreferrer" class="darklinkcontainer">
-                the genius design of apple park
+              <a href="https://www.youtube.com/watch?v=QHQTzeve7OM" target="_blank" rel="noreferrer" class="darklinkcontainer">
+                wework the $47 billion disaster
               </a>
               <a href="https://www.youtube.com/watch?v=J-M98KLgaUU" target="_blank" rel="noreferrer" class="darklinkcontainer">
                 what went wrong with drone delivery
