@@ -13,25 +13,25 @@ const Landing = () => {
             I'm currently a <span class="green-text">software engineer at Yahoo! </span>
             I graduated from the
             University of Chicago in 2022 with a BS in Computer Science and a BA
-            in Economics. Currently I'm based in NYC. During
-            my free time, I'm working on personal finance, building keyboards,
+            in Economics. I'm based in NYC, during
+            my free time, I learn about personal finance, building keyboards,
             bouldering, and cooking.
           </div>
           <div className="heading">engineering</div>
           <div className="paragraph">
             My primary focus is on <span class="green-text">DevOps and Production Engineering</span>. Some of
-            the key projects I've led involve migrating Yahoo's production apps
+            the key projects I've led involve migrating Yahoo's production applications
             to cloud services such as <span class="green-text">AWS</span> and
             <span class="green-text"> GCP</span>, and building out the
             <span class="green-text"> CI/CD</span> pipelines
             integrating both our internal and external dependencies.
             <div class="mini-space"></div>
-            As our apps adapted to the cloud environment, I've also introduced
+            For these apps I have also developed
             containerization and orchestration using <span class="green-text"> Docker </span>and<span class="green-text"> Kubernetes</span>.
-            Through this work I've also developed a strong understanding of corporate security and compliance,
-            and how to use <span class="green-text">IaC</span> (infrastructure as code) to enforce these policies.
+            I've obtained a strong understanding of corporate security and compliance,
+            and best practices such as <span class="green-text">IaC</span> (infrastructure as code) to enforce these policies.
             <div class="mini-space"></div>
-            As I continue this journey, I look forward to diving deeper into
+            I look forward to diving deeper into
             applications of AI and ML and how we can leverage its potential to further enhance our technological landscape.
 
             <div className="heading">some links</div>
