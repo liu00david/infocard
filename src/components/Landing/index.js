@@ -4,10 +4,10 @@ import { TypeAnimation } from 'react-type-animation';
 
 const Landing = () => {
 
-  const animate_1_len = 500
-  const animate_2_len = 1200
-  const animate_3_len = 1500
-  const wait_first_page = 4500
+  const animate_1_len = 400
+  const animate_2_len = 1100
+  const animate_3_len = 1100
+  const wait_first_page = 4100
   const animate_4_len = 10000
   const scroll_len = animate_1_len + animate_2_len + animate_3_len + wait_first_page
 
