@@ -46,8 +46,8 @@ const Landing = () => {
               <a href="https://www.linkedin.com/in/liu00david/" target="_blank" rel="noreferrer" class="linkcontainer">
                 LinkedIn
               </a>
-              <a href="https://www.instagram.com/wheres_dvd/" target="_blank" rel="noreferrer" class="linkcontainer">
-                Instagram @wheres_dvd
+              <a href="https://www.instagram.com/finding.david/" target="_blank" rel="noreferrer" class="linkcontainer">
+                Instagram @finding.david
               </a>
               <a href="https://drive.google.com/drive/folders/1Su2RrV7zt-fZYIWyg7A7FQkvEoXyHUFQ?usp=drive_link" target="_blank" rel="noreferrer" class="linkcontainer">
                 Life spreadsheets
