@@ -47,7 +47,7 @@ const Landing = () => {
                 LinkedIn
               </a>
               <a href="https://www.instagram.com/finding.david/" target="_blank" rel="noreferrer" class="linkcontainer">
-                Instagram @finding.david
+                Insta @finding.david
               </a>
               <a href="https://drive.google.com/drive/folders/1Su2RrV7zt-fZYIWyg7A7FQkvEoXyHUFQ?usp=drive_link" target="_blank" rel="noreferrer" class="linkcontainer">
                 My spreadsheets
