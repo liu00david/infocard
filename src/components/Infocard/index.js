@@ -61,19 +61,19 @@ const Landing = () => {
             <div className="paragraph">
               <div class="mini-space"></div>
               <a href="https://www.youtube.com/watch?v=1S3Ca9v6pyo" target="_blank" rel="noreferrer" class="darklinkcontainer">
-                one boat caused a $400 million an hour traffic jam
+                one boat caused a $400 million per hour traffic jam
               </a>
               <a href="https://www.youtube.com/watch?v=4V9pPGrpN1E" target="_blank" rel="noreferrer" class="darklinkcontainer">
                 make easy butter chicken for $2.40
               </a>
               <a href="https://www.youtube.com/watch?v=dsHyUgGMht0" target="_blank" rel="noreferrer" class="darklinkcontainer">
-                how github's database self-destructed in 43 seconds
+                github's database self-destructed in 43 seconds
               </a>
               <a href="https://www.youtube.com/watch?v=Sle2xnj5VSw" target="_blank" rel="noreferrer" class="darklinkcontainer">
-                el salvador's $17,000,000,000 bitcoin city
+                el salvador's $17b bitcoin city
               </a>
               <a href="https://www.youtube.com/watch?v=QHQTzeve7OM" target="_blank" rel="noreferrer" class="darklinkcontainer">
-                wework the $47 billion disaster
+                wework the $47b billion disaster
               </a>
               <a href="https://www.youtube.com/watch?v=J-M98KLgaUU" target="_blank" rel="noreferrer" class="darklinkcontainer">
                 what went wrong with drone delivery
