@@ -13,7 +13,7 @@ const Landing = () => {
             I'm currently a <span class="green-text">software engineer at Yahoo! </span>
             I graduated from the
              <span class="green-text"> University of Chicago </span> in 2022 with a BS in Computer Science and a BA
-            in Economics. Within Computer Science, I specialized in Human Computer Interaction. I'm based in NYC, and during
+            in Economics. I'm based in NYC, and during
             my free time, I explore personal finance, travel deals, cryptocurrency, mechanical keyboards,
             bouldering, and cooking.
           </div>
@@ -22,17 +22,17 @@ const Landing = () => {
             My primary scope is <span class="green-text">Cloud Platform Engineering</span>. Some
             key projects I work on include the migration of Yahoo's Location service applications
             to cloud native technologies such as <span class="green-text">AWS</span> and
-            <span class="green-text"> GCP </span>. Most services are based in <span class="green-text"> Kubernetes </span>, via managed services AWS EKS and GCP GKE.
-              I am directly involved in architecting solutions with an
-            emphasis in reliability, scalability, and observability, in order to 
-            serve the <span class="green-text"> 100M+ </span> requests our APIs receive per day.
+            <span class="green-text"> GCP.</span> Most services are based in <span class="green-text"> Kubernetes </span> via managed services AWS EKS and GCP GKE.
+            I'm directly involved in architecting solutions with an
+            emphasis in reliability, scalability, and observability, to 
+            serve the <span class="green-text"> 100M+ </span> requests our APIs handle daily.
             <div class="mini-space"></div>
-            Through my involvement in software that handles sensitive PII data, I've obtained a strong understanding of <span class="green-text"> corporate security and compliance, </span>
-            and practices such as infrastructure as code, <span class="green-text"> IaC, </span> so that
-            our systems can be monitored and enforced smoothly and carefully.
+            Through my involvement in software handling sensitive PII data, I've obtained a strong understanding of <span class="green-text"> corporate security and compliance. </span>
+            Using infrastructure as code, <span class="green-text"> IaC, </span>
+            our systems can be maintained easily and carefully to ensure data security.
             <div class="mini-space"></div>
             As I continue to hone my skills as an engineer, I look forward to diving deeper into
-            applications of AI and ML and how we can leverage its potential to further enhance our technological landscape.
+            applications of AI and ML and how we can leverage its potential to further enhance our world.
 
             <div className="heading">some links</div>
             <div className="paragraph">
@@ -62,9 +62,6 @@ const Landing = () => {
               <div class="mini-space"></div>
               <a href="https://www.youtube.com/watch?v=1S3Ca9v6pyo" target="_blank" rel="noreferrer" class="darklinkcontainer">
                 one boat caused a $400 million an hour traffic jam
-              </a>
-              <a href="https://www.youtube.com/watch?v=wdfF-doIVjo" target="_blank" rel="noreferrer" class="darklinkcontainer">
-                how singapore became the world's hub
               </a>
               <a href="https://www.youtube.com/watch?v=4V9pPGrpN1E" target="_blank" rel="noreferrer" class="darklinkcontainer">
                 make easy butter chicken for $2.40
