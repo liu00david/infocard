@@ -13,31 +13,31 @@ const Landing = () => {
             I'm currently a <span class="green-text">software engineer at Yahoo! </span>
             I graduated from the
             University of Chicago in 2022 with a BS in Computer Science and a BA
-            in Economics. I'm based in NYC, during
-            my free time, I learn about personal finance, building keyboards,
+            in Economics. In Computer Science, I specialized in Human Computer Interaction. I'm based in NYC, and during
+            my free time, I explore personal finance, travel deals, cryptocurrency, mechanical keyboards,
             bouldering, and cooking.
           </div>
           <div className="heading">engineering</div>
           <div className="paragraph">
-            My primary focus is on <span class="green-text">DevOps and Production Engineering</span>. Some of
-            the key projects I've led involve migrating Yahoo's production applications
-            to cloud services such as <span class="green-text">AWS</span> and
-            <span class="green-text"> GCP</span>, and building out the
-            <span class="green-text"> CI/CD</span> pipelines
-            integrating both our internal and external dependencies.
+            My primary role involves <span class="green-text">Cloud Platform Engineering</span>. Some
+            key projects I am involved in include the migration of Yahoo's Location service applications
+            to cloud native technologies such as <span class="green-text">AWS</span> and
+            <span class="green-text"> GCP</span>. Many services utilize the <span class="green-text"> Kubernetes </span> orchestration platform.
+              I am directly involved in architecting solutions with an
+            emphasis in reliability, scalability, and observability, in order to 
+            serve the 100M+ requests our APIs receive per day.
             <div class="mini-space"></div>
-            For these apps I have also developed
-            containerization and orchestration using <span class="green-text"> Docker </span>and<span class="green-text"> Kubernetes</span>.
-            I've obtained a strong understanding of corporate security and compliance,
-            and best practices such as <span class="green-text">IaC</span> (infrastructure as code) to enforce these policies.
+            Through my work in developing software handling sensitive PII data, I've obtained a strong understanding of corporate security and compliance,
+            and practices such as infrastructure as code, <span class="green-text"> IaC, </span> so that
+            our systems can be monitored and enforced easily and carefully.
             <div class="mini-space"></div>
-            I look forward to diving deeper into
+            As I continue to hone my skills as an engineer, I look forward to diving deeper into
             applications of AI and ML and how we can leverage its potential to further enhance our technological landscape.
 
             <div className="heading">some links</div>
             <div className="paragraph">
               <div class="mini-space"></div>
-              <a href="https://github.com/liu00david/fun" target="_blank" rel="noreferrer" class="linkcontainer">
+              <a href="https://github.com/liu00david/" target="_blank" rel="noreferrer" class="linkcontainer">
                 Github
               </a>
               <a href="https://liu00david.github.io/home/" target="_blank" rel="noreferrer" class="linkcontainer">
@@ -72,8 +72,8 @@ const Landing = () => {
               <a href="https://www.youtube.com/watch?v=dsHyUgGMht0" target="_blank" rel="noreferrer" class="darklinkcontainer">
                 how github's database self-destructed in 43 seconds
               </a>
-              <a href="https://www.youtube.com/watch?v=7ZRqeRRik8c" target="_blank" rel="noreferrer" class="darklinkcontainer">
-                first descent of k2 on skis
+              <a href="https://www.youtube.com/watch?v=Sle2xnj5VSw" target="_blank" rel="noreferrer" class="darklinkcontainer">
+                el salvador's $17 billion city
               </a>
               <a href="https://www.youtube.com/watch?v=QHQTzeve7OM" target="_blank" rel="noreferrer" class="darklinkcontainer">
                 wework the $47 billion disaster
