@@ -12,24 +12,24 @@ const Landing = () => {
           <div className="paragraph">
             I'm currently a <span class="green-text">software engineer at Yahoo! </span>
             I graduated from the
-            University of Chicago in 2022 with a BS in Computer Science and a BA
-            in Economics. In Computer Science, I specialized in Human Computer Interaction. I'm based in NYC, and during
+             <span class="green-text"> University of Chicago </span> in 2022 with a BS in Computer Science and a BA
+            in Economics. Within Computer Science, I specialized in Human Computer Interaction. I'm based in NYC, and during
             my free time, I explore personal finance, travel deals, cryptocurrency, mechanical keyboards,
             bouldering, and cooking.
           </div>
           <div className="heading">engineering</div>
           <div className="paragraph">
-            My primary role involves <span class="green-text">Cloud Platform Engineering</span>. Some
-            key projects I am involved in include the migration of Yahoo's Location service applications
+            My primary scope is <span class="green-text">Cloud Platform Engineering</span>. Some
+            key projects I work on include the migration of Yahoo's Location service applications
             to cloud native technologies such as <span class="green-text">AWS</span> and
-            <span class="green-text"> GCP</span>. Many services utilize the <span class="green-text"> Kubernetes </span> orchestration platform.
+            <span class="green-text"> GCP </span>. Most services are based in <span class="green-text"> Kubernetes </span>, via managed services AWS EKS and GCP GKE.
               I am directly involved in architecting solutions with an
             emphasis in reliability, scalability, and observability, in order to 
-            serve the 100M+ requests our APIs receive per day.
+            serve the <span class="green-text"> 100M+ </span> requests our APIs receive per day.
             <div class="mini-space"></div>
-            Through my work in developing software handling sensitive PII data, I've obtained a strong understanding of corporate security and compliance,
+            Through my involvement in software that handles sensitive PII data, I've obtained a strong understanding of <span class="green-text"> corporate security and compliance, </span>
             and practices such as infrastructure as code, <span class="green-text"> IaC, </span> so that
-            our systems can be monitored and enforced easily and carefully.
+            our systems can be monitored and enforced smoothly and carefully.
             <div class="mini-space"></div>
             As I continue to hone my skills as an engineer, I look forward to diving deeper into
             applications of AI and ML and how we can leverage its potential to further enhance our technological landscape.
@@ -73,7 +73,7 @@ const Landing = () => {
                 how github's database self-destructed in 43 seconds
               </a>
               <a href="https://www.youtube.com/watch?v=Sle2xnj5VSw" target="_blank" rel="noreferrer" class="darklinkcontainer">
-                el salvador's $17 billion city
+                el salvador's $17,000,000,000 bitcoin city
               </a>
               <a href="https://www.youtube.com/watch?v=QHQTzeve7OM" target="_blank" rel="noreferrer" class="darklinkcontainer">
                 wework the $47 billion disaster
