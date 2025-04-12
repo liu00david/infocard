@@ -58,11 +58,11 @@ const Landing = () => {
               </a>
             </div>
 
-            <div className="heading">videos I liked</div>
+            <div className="heading">content I like</div>
             <div className="paragraph">
               <div class="mini-space"></div>
-              <a href="https://www.youtube.com/watch?v=1S3Ca9v6pyo" target="_blank" rel="noreferrer" class="darklinkcontainer">
-                one boat caused a $400 million per hour traffic jam
+              <a href="https://docs.google.com/document/d/1eteZbvepAMoe1eUYkyixyW-CVnuJBgaQeUKIIhMyUi4/edit?usp=drive_link" target="_blank" rel="noreferrer" class="darklinkcontainer">
+                my airline lounges docs
               </a>
               <a href="https://www.youtube.com/watch?v=4V9pPGrpN1E" target="_blank" rel="noreferrer" class="darklinkcontainer">
                 make easy butter chicken for $2.40
